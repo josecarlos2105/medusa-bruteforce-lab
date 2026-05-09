@@ -1,0 +1,7 @@
+admin
+msfadmin
+user
+ftp
+test
+root
+guest
