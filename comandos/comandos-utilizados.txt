@@ -1,0 +1,13 @@
+ip a
+
+ifconfig
+
+ping 192.168.56.20
+
+nmap -sV 192.168.56.20
+
+medusa -h 192.168.56.20 -U ftp-users.txt -P ftp-passwords.txt -M ftp
+
+enum4linux 192.168.56.20
+
+medusa -h 192.168.56.20 -U ftp-users.txt -p password -M smbnt
