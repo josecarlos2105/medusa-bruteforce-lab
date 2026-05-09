@@ -246,7 +246,7 @@ Processo de identificação de serviços, usuários e informações disponíveis
 
 # 📸 Evidências
 
-As capturas de tela do laboratório estão disponíveis na pasta:
+As evidências visuais poderão ser adicionadas futuramente conforme evolução do laboratório.
 
 ```text
 /screenshots
